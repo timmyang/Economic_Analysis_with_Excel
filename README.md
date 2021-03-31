@@ -6,7 +6,7 @@ This half-semester course offers students the opportunity to master the advance 
 
 In addition to providing hands-on experience using Excel’s more advanced capabilities, the course is designed to serve as a bridge between introductory econometrics and practical work with real-world datasets. The course will be held in the computer classroom so that students can obtain practical experience preparing data, managing workflow, and presenting results. Added emphasis throughout the course will be placed on examples with applications in economics.
 
-Prerequisites: prior completion of, or concurrent enrollment in, Econ 413 (Introduction to Econometrics).
+**Prerequisites:** prior completion of, or concurrent enrollment in, Econ 413 (Introduction to Econometrics).
 
 Upon completion of this course, students should be able to:
 
