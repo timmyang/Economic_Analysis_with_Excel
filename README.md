@@ -10,10 +10,10 @@ Prerequisites: prior completion of, or concurrent enrollment in, Econ 413 (Intro
 
 Upon completion of this course, students should be able to:
 
-• Plan, design, create and manage multiple worksheets
-• Construct formulas using relative, absolute and mixed cell references
-• Manage large volumes of data using tables, pivot tables, and advanced queries
-• Construct, revise, and update appropriate charting styles to represent a variety of data
-• Analyze data using various mathematical and statistical functions
-• Link excels workbooks to manage and combine data sets
-• Import data from external and online data sources
+- Plan, design, create and manage multiple worksheets  
+- Construct formulas using relative, absolute and mixed cell references  
+- Manage large volumes of data using tables, pivot tables, and advanced queries  
+- Construct, revise, and update appropriate charting styles to represent a variety of data  
+- Analyze data using various mathematical and statistical functions  
+- Link excels workbooks to manage and combine data sets  
+- Import data from external and online data sources  
