@@ -1,4 +1,4 @@
-# Economic_Analysis_with_Excel
+# Economic Analysis with Excel
 
 #### About this course:
 This half-semester course offers students the opportunity to master the advance functionality of Microsoft Excel, and to apply those skills to common economic, statistical, and financial problems. Even those familiar with the basic functioning of Excel may be surprised to learn how little of its full capability most users access. Though basic functions will be covered, our focus will be on leveraging Excel’s more advanced functions, analytical tools, reporting templates, and linking features to manage multiple workbooks, manipulate data across files, automate tasks, and produce publication quality charts, tables, and graphs.
